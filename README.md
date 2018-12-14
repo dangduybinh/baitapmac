@@ -1,2 +1,0 @@
-# baitapmac
-hello
